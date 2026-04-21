@@ -13,6 +13,8 @@ Jeudi 23.04.2026 à 10:00
    
 * **exemple de code d'algo de Grover** *(je m'en suis inspirée pour faire le notebook ```test_grover.ipynb```)* : [IBM](https://quantum.cloud.ibm.com/learning/en/modules/computer-science/grovers)
 
+* **run un notebook avec l'extension Juoyter de VS Code** : cliquez sur run / run all, pour l'environnement choisissez oython environnement et perso j'ai pris "base (Python 3.11.5)" mais en gros faut prendre celui ou il y a "anaconda3" dans le chemin je crois
+
 ## Les pistes trouvées pour l'instant 
 
 ### Julien
@@ -23,6 +25,7 @@ Jeudi 23.04.2026 à 10:00
 
 ### Lilou 
 * modification de l'état initial avec la création d'un qubit auxiliaire 
+* **nom du notebook associé : grover_with_auxilliary_qubits.ipynb** 
 
 ### Suraj 
 
