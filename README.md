@@ -10,4 +10,23 @@ Jeudi 23.04.2026 à 10:00
  * **installation d'outils python utiles pour le projet** :
    Qiskit (sur python via VS Code :
    ```pip install qiskit qiskit-aer pylatexenc```
+   
 * **exemple de code d'algo de Grover** *(je m'en suis inspirée pour faire le notebook ```test_grover.ipynb```)* : [IBM](https://quantum.cloud.ibm.com/learning/en/modules/computer-science/grovers)
+
+## Les pistes trouvées pour l'instant 
+
+### Julien
+
+### Anna 
+
+### Enzo
+
+### Lilou 
+* modification de l'état initial avec la création d'un qubit auxiliaire 
+
+### Suraj 
+
+
+## A faire pour la prochaine séance 
+* chercher 3 autres manières de coder différement Grover avez une répartition initiale non uniforme
+* trancher sur la date de la prochaine réunion : **lundi 27.04 à 8:00** ou **Jeudi 30.04 à 10:00** ? 
