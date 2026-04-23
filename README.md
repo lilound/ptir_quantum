@@ -31,6 +31,9 @@ Jeudi 23.04.2026 à 10:00
 
 ### Suraj 
 
+## Questions à poser 
+
+Réunion d'équipe, ...
 
 ## A faire pour la prochaine séance 
 * chercher 3 autres manières de coder différement Grover avez une répartition initiale non uniforme
