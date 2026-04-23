@@ -4,7 +4,7 @@
 
 ## PROCHAINE REUNION 
 
-Jeudi 23.04.2026 à 10:00 
+Jeudi 30.04.2026 à 10:00 
 
 ## Avancée du projet 
 * **répartition des améliorations d'algorithmes au sein du groupe** : [google sheets](https://docs.google.com/spreadsheets/d/15BYjuYgD5jOPF6x4KEJVeZOqFXKPsPC-kwkHhCdIPC0/edit?gid=0#gid=0)
@@ -32,6 +32,8 @@ Jeudi 23.04.2026 à 10:00
 ### Suraj 
 
 ## Questions à poser 
+
+hsort notice online 
 
 Réunion d'équipe, ...
 
