@@ -5,6 +5,7 @@
 ## PROCHAINE REUNION 
 
 Jeudi 30.04.2026 à 10:00 
+**séminaire sur les protocoles quantiques** jeudi 30.04.2026 à 11:00 si on veut 
 
 ## Avancée du projet 
 * **répartition des améliorations d'algorithmes au sein du groupe** : [google sheets](https://docs.google.com/spreadsheets/d/15BYjuYgD5jOPF6x4KEJVeZOqFXKPsPC-kwkHhCdIPC0/edit?gid=0#gid=0)
@@ -38,5 +39,4 @@ hsort notice online
 Réunion d'équipe, ...
 
 ## A faire pour la prochaine séance 
-* chercher 3 autres manières de coder différement Grover avez une répartition initiale non uniforme
-* trancher sur la date de la prochaine réunion : **lundi 27.04 à 8:00** ou **Jeudi 30.04 à 10:00** ? 
+* chercher 2 autres manières de coder différement Grover avez une répartition initiale non uniforme
