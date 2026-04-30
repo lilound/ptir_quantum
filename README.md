@@ -34,9 +34,8 @@ Jeudi 30.04.2026 à 10:00
 
 ## Questions à poser 
 
-hsort notice online 
-
-Réunion d'équipe, ...
+reunion le lundi ? 
+lieu reunion 
 
 ## A faire pour la prochaine séance 
 * chercher 2 autres manières de coder différement Grover avez une répartition initiale non uniforme
