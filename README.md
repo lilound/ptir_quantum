@@ -28,7 +28,8 @@ Jeudi 30.04.2026 à 10:00
 
 ### Lilou 
 * modification de l'état initial avec la création d'un qubit auxiliaire 
-* **nom du notebook associé : grover_with_auxilliary_qubits.ipynb** 
+* **nom du notebook associé : grover_with_auxilliary_qubits.ipynb**
+* attention à se mettre dans les conditions initiales bien précises de l'article
 
 ### Suraj 
 
@@ -36,6 +37,7 @@ Jeudi 30.04.2026 à 10:00
 
 reunion le lundi ? 
 lieu reunion 
+qu'est-ce qui est attendu du rendu ? 
 
 ## A faire pour la prochaine séance 
 * chercher 2 autres manières de coder différement Grover avez une répartition initiale non uniforme
