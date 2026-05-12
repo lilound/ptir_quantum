@@ -41,3 +41,8 @@ qu'est-ce qui est attendu du rendu ?
 
 ## A faire pour la prochaine séance 
 * chercher 2 autres manières de coder différement Grover avez une répartition initiale non uniforme
+* CODE JULIEN
+* Normaliser les probas pr avoir une proba de 1 au total
+* il faut choisir avec un random une proba au lieu de faire une proba de chaque canal 
+* au moins un résultat à chaque fois
+si c pas adapte, se poser des question
