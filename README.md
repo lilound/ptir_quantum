@@ -28,8 +28,8 @@ Jeudi 30.04.2026 à 10:00
 
 ### Lilou 
 * modification de l'état initial avec la création d'un qubit auxiliaire 
-* **nom du notebook associé : grover_with_auxilliary_qubits.ipynb**
-* attention à se mettre dans les conditions initiales bien précises de l'article
+* **nom du notebook associé : Lilou_NADLER_PTIR1_Deterministic_with_auxilliary_qubit.ipynb**
+* Le fichier contient : un grover standard, un algor de grover que j'ai implémenté, les tests en simulation, les tests en harware, et les tests sur l'algorithme de Julien 
 
 ### Suraj 
 
